@@ -1,9 +1,9 @@
 // 1. Lista de imagens e legendas que serão exibidas.
 const fotos = [
-    { arquivo: "imagens/foto1.jpg", legenda: "Primeira fotografia" },
-    { arquivo: "imagens/foto2.jpg", legenda: "Segunda fotografia" },
-    { arquivo: "imagens/foto3.jpg", legenda: "Terceira fotografia" },
-    { arquivo: "imagens/foto4.jpg", legenda: "Quarta fotografia" }
+    { arquivo: "imagens/foto1.jpeg", legenda: "Primeira fotografia" },
+    { arquivo: "imagens/foto2.jpeg", legenda: "Segunda fotografia" },
+    { arquivo: "imagens/foto3.jpeg", legenda: "Terceira fotografia" },
+    { arquivo: "imagens/foto4.jpeg", legenda: "Quarta fotografia" }
   ];
   
   // 2. Guarda a posição da foto que está sendo exibida.
